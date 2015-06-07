@@ -1,4 +1,4 @@
 tests/output
 vendor/
-
+.idea/
 composer.lock
